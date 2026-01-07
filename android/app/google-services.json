@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "28057257496",
+    "project_id": "moviexapp-b8694",
+    "storage_bucket": "moviexapp-b8694.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28057257496:android:a41e984be4e59584bee56d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_moviex_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28057257496-74pm6bfj37r68hr6r8jnm2h2qrbgf4va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7RpzYxkkanft9yHzYqeNN-yz1i3qnh4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28057257496-74pm6bfj37r68hr6r8jnm2h2qrbgf4va.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "28057257496-gg1afrovngis3trmim5ulhg155sqbjl7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterMoviexApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
